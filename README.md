@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ODIGBR
-- 👀 I’m interested in basicly everything
+- 👀 I’m interested in basically everything
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on other developers
 - 📫 How to reach me..: igbr@tuta.io
